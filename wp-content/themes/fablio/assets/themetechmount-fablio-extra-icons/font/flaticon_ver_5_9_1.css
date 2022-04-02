@@ -1,0 +1,86 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 11/03/2021 11:24
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("Flaticon.eot");
+  src: url("Flaticon.eot") format("embedded-opentype"),
+       url("Flaticon.woff2") format("woff2"),
+       url("Flaticon.woff") format("woff"),
+       url("Flaticon.ttf") format("truetype"),
+       url("Flaticon.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("Flaticon.svg") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-textile:before { content: "\f100"; }
+.flaticon-textiles:before { content: "\f101"; }
+.flaticon-water-resistant:before { content: "\f102"; }
+.flaticon-moisture-wicking-fabric:before { content: "\f103"; }
+.flaticon-fabric:before { content: "\f104"; }
+.flaticon-textiles-1:before { content: "\f105"; }
+.flaticon-knitting:before { content: "\f106"; }
+.flaticon-flameproof-fabric:before { content: "\f107"; }
+.flaticon-fabric-1:before { content: "\f108"; }
+.flaticon-rug:before { content: "\f109"; }
+.flaticon-fabric-2:before { content: "\f10a"; }
+.flaticon-textile-1:before { content: "\f10b"; }
+.flaticon-silk:before { content: "\f10c"; }
+.flaticon-textile-2:before { content: "\f10d"; }
+.flaticon-iron:before { content: "\f10e"; }
+.flaticon-print:before { content: "\f10f"; }
+.flaticon-silk-1:before { content: "\f110"; }
+.flaticon-wool:before { content: "\f111"; }
+.flaticon-yarn:before { content: "\f112"; }
+.flaticon-knitting-1:before { content: "\f113"; }
+.flaticon-wool-1:before { content: "\f114"; }
+.flaticon-yarn-1:before { content: "\f115"; }
+.flaticon-needlework:before { content: "\f116"; }
+.flaticon-suit:before { content: "\f117"; }
+.flaticon-sewing:before { content: "\f118"; }
+.flaticon-dressmaker:before { content: "\f119"; }
+.flaticon-phone-call:before { content: "\f11a"; }
+.flaticon-play:before { content: "\f11b"; }
+.flaticon-placeholder:before { content: "\f11c"; }
+.flaticon-email:before { content: "\f11d"; }
+.flaticon-email-1:before { content: "\f11e"; }
+.flaticon-botton:before { content: "\f11f"; }
+.flaticon-coat:before { content: "\f120"; }
+.flaticon-jacket:before { content: "\f121"; }
+.flaticon-jeans:before { content: "\f122"; }
+.flaticon-tshirt:before { content: "\f123"; }
+.flaticon-t-shirt:before { content: "\f124"; }
+.flaticon-socks:before { content: "\f125"; }
+.flaticon-sewing-machine:before { content: "\f126"; }
+.flaticon-measuring-tape:before { content: "\f127"; }
+.flaticon-tshirt-1:before { content: "\f128"; }
+.flaticon-vest:before { content: "\f129"; }
+.flaticon-factory:before { content: "\f12a"; }
+.flaticon-warehouse:before { content: "\f12b"; }
+.flaticon-warehouse-1:before { content: "\f12c"; }
+.flaticon-telephone:before { content: "\f12d"; }
+.flaticon-telephone-1:before { content: "\f12e"; }
+.flaticon-clock:before { content: "\f12f"; }
+.flaticon-email-2:before { content: "\f130"; }
+.flaticon-shipped:before { content: "\f131"; }
+.flaticon-delivery-truck:before { content: "\f132"; }
+.flaticon-wallet:before { content: "\f133"; }
+.flaticon-returning:before { content: "\f134"; }
+.flaticon-chat:before { content: "\f135"; }
